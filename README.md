@@ -22,6 +22,7 @@ No source, but it add an icon and a timer near the healthbar of the totem for Tr
 # flyPlateBuffs
 Nameplate aura addon
 source : https://www.curseforge.com/wow/addons/flyplatebuffs
+
 can be found here (Default version) : https://github.com/Macumbafeh/flyPlateBuffs_awesome_wotlk
 
 # sArena
